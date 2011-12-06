@@ -10,5 +10,9 @@ namespace GitTestLibrary
         public void FuckYall()
         {
         }
+        public void FuckYall2()
+        {
+        }
     }
+    
 }
