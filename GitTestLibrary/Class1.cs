@@ -5,7 +5,10 @@ using System.Text;
 
 namespace GitTestLibrary
 {
-    public class Class1
+    public class TestFunction
     {
+        public void FuckYall()
+        {
+        }
     }
 }
