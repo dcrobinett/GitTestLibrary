@@ -7,7 +7,7 @@ namespace GitTestLibrary
 {
     public class TestFunction
     {
-        public void FuckYall()
+        public void ThanksSirCanIHaveAnother()
         {
         }
         public void FuckYall2()
