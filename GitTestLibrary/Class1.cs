@@ -13,6 +13,10 @@ namespace GitTestLibrary
         public void FuckYall2()
         {
         }
+        public void AnotherBlankMethod()
+        {
+        }
+
     }
     
 }
