@@ -8,5 +8,7 @@ namespace GitTestLibrary
     class Bullshit
     {
         //Some bullshit here.
+        // Even more bullshit.
     }
+
 }
